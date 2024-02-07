@@ -5,6 +5,6 @@
 <h4 align="center">Hello! We create classic and modern puzzle games that everyone can enjoy! Have fun!</h4>
 
 <h2 align="center">Games</h2>
-![Icon_MegaQuiz](https://github.com/CsevenSG/CsevenSG.github.io/assets/159257413/823af410-0e2f-4b14-a0c6-2ef11e92644c.png = 100x100)
+
 
 
