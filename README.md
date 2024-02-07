@@ -5,6 +5,6 @@
 <h4 align="center">Hello! We create classic and modern puzzle games that everyone can enjoy! Have fun!</h4>
 
 <h2 align="center">Games</h2>
-
+![Icon_MegaQuiz](/assets/Icon_MegaQuiz.png width="100" height="100") 
 
 
