@@ -20,3 +20,8 @@
 <p align="center">Word Collect</p>
 <p align="center"><img src="images/Password_FG.png"/></p>
 <p align="center">Find the Password</p>
+<h3 align="center">About</h3>
+<p align="center">Cseven ia a mobile game developer! We make casual games that everyone can enjoy. Have fun!</p>
+<h3 align="center">Contact</h3>
+<p align="center">You can reach us via email at: cseven.smartgames@gmail.com</p>
+<p align="center">© 2024 Cseven. All rights reserved.</p>
