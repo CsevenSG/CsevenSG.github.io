@@ -6,3 +6,5 @@
 <p align="center">Wood Block Puzzle</p>
 <p align="center"><img src="images/Game_of_Words_FG.png"/></p>
 <p align="center">Game of Words</p>
+<p align="center"><img src="images/Scramble_FG.png"/></p>
+<p align="center">Word Scramble</p>
