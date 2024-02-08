@@ -12,3 +12,5 @@
 <p align="center">Wood Star Puzzle</p>
 <p align="center"><img src="images/Puzzle_FG.png"/></p>
 <p align="center">The Puzzle</p>
+<p align="center"><img src="images/Word_FG.png"/></p>
+<p align="center">Word Collect</p>
