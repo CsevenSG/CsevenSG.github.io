@@ -2,3 +2,5 @@
 <h3 align="center">Games</h3>
 <p align="center"><img src="images/Mega_Quiz_FG.png"/></p>
 <p align="center">Mega Quiz</p>
+<p align="center"><img src="images/WBP_FG.png"/></p>
+<p align="center">Wood Block Puzzle</p>
