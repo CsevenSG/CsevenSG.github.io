@@ -6,6 +6,5 @@
 
 <h2 align="center">Games</h2>
 <p align="center">
-![MegaQuiz_Image](/images/Icon_MegaQuiz.png "Mega Quiz")
+<img width="100%" src="![MegaQuiz_Image](/images/Icon_MegaQuiz.png)">
 </p>
-
