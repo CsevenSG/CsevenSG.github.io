@@ -4,3 +4,5 @@
 <p align="center">Mega Quiz</p>
 <p align="center"><img src="images/WBP_FG.png"/></p>
 <p align="center">Wood Block Puzzle</p>
+<p align="center"><img src="images/Game_of_Words_FG.png"/></p>
+<p align="center">Game of Words</p>
