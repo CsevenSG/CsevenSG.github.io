@@ -10,3 +10,5 @@
 <p align="center">Word Scramble</p>
 <p align="center"><img src="images/Wood_Star_Puzzle_FG.png"/></p>
 <p align="center">Wood Star Puzzle</p>
+<p align="center"><img src="images/Puzzle_FG.png"/></p>
+<p align="center">The Puzzle</p>
